@@ -1,0 +1,48 @@
+@media screen and ( min-width:768px){
+        .navbar-brand{
+            display: none !important;
+        }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+      background-color: lightgreen !important;
+    }
+    .style_heading3{
+        font-size: 25px;
+    }
+    .leaf {
+        display: none;
+    }
+    .style_heading2{
+        font-size: 22px;
+    }
+    .para1, p{
+        font-size: 10px;
+    }
+    .Spaghetti {
+        display: none;
+    }
+    .content2{
+        flex-direction: column;
+    }
+    .heading3{
+          font-size: 18px;
+    }
+    .logo{
+      display: none;
+    }
+    .info{
+     display: none !important;
+    }
+    .b_nav{
+     margin-bottom: 20px;
+     text-align: center;
+    } 
+    .style_heading1{
+        font-size: 40px;
+    }
+    .b_heding4 {
+        font-size: 9px !important;
+    }
+  }
